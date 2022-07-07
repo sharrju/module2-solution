@@ -18,7 +18,8 @@ h2 {
     font-size: 20px;
     width: 100px;
     text-align: center;
-    border: 3px solid black;
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
     margin-top: 0px;
 }
 
